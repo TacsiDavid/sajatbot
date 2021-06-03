@@ -15,7 +15,7 @@ const ms = require("ms")
 //////////////////////////////////////////////////////////////
 client.commands = new Discord.Collection();
 client.aliases = new Discord.Collection();
-client.login('ODQyNjgzMTM4ODgyMDExMTM5.YJ431A.88klDpHfWqTJ32yEW19aSIvQFWc');
+client.login('');
 
 client.categories = fs.readdirSync("./commands/");
 
